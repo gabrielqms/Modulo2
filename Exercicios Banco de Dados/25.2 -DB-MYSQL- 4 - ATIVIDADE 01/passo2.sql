@@ -1,0 +1,7 @@
+CREATE TABLE tb_classes(
+id BIGINT AUTO_INCREMENT,
+nomeClasse VARCHAR(50) NOT NULL,
+arma VARCHAR(50) NOT NULL,
+PRIMARY KEY(id)
+);
+
